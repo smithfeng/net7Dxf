@@ -38,7 +38,6 @@ Are contained in the source code.
 Well, at the moment they are just tests for the work in progress.
 ## Dependencies and distribution 
 Multitarget project, predefined frameworks for Net 6, and NET 7.
-Additionally the Net Standard 2.1 build requires a reference to the external library "System.Text.Encoding.CodePages".
 ## Compiling
 Visual Studio 2019.
 ## Development Status 
